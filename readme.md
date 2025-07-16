@@ -12,4 +12,5 @@ An interactive Streamlit dashboard to explore trends in AI job market — includ
 ## Run Locally
 
 pip install -r requirements.txt
+
 streamlit run app.py
